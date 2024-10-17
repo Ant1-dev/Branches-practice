@@ -1,2 +1,4 @@
 # Branches-practice
-Practice branching 
+
+Practice branching
+hello Rhodi ;)
